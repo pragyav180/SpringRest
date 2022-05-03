@@ -1,0 +1,18 @@
+{
+	"id": 14,
+	"firstName": "Mario",
+	"lastName": "Rossi",
+	"active": true,
+	"hobbies" : ["dancing","swimming","gardening","skating"],
+	"workExp" : ["TCS","Newgen","Sopra"],
+	"address": {
+		"street": "100 Main St",
+		"city": "Philadelphia",
+		"state": "Pennsylvania",
+		"zip": "19103",
+		"country": "USA"
+	},
+	"languages" : ["Java", "C#", "Python", "Javascript"],
+	"Mode" : ["active"]
+	
+}
